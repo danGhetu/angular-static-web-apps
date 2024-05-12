@@ -10,6 +10,9 @@
     "serve:ssr:angular-app": "node dist/angular-app/server/server.mjs"
   },
   "private": true,
+  "engines": {
+    "node": ">=18.0.0"
+},
   "dependencies": {
     "@angular/animations": "^17.3.0",
     "@angular/common": "^17.3.0",

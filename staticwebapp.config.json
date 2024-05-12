@@ -1,0 +1,8 @@
+{
+    "routes": [
+        {
+          "route": "/adrorgadminui/",
+          "rewrite": "index.html"
+      }]
+        }
+    
